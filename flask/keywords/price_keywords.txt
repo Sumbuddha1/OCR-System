@@ -1,0 +1,6 @@
+bpay
+debit
+automatic
+direct
+total
+due

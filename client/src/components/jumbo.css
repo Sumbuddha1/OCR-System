@@ -1,0 +1,10 @@
+.jumbotron {
+    padding: 4rem 3rem;
+      margin-top:3rem;
+      background-color: #e9ecef;
+      border-radius: .3rem;  
+  }
+
+.gap{
+    margin-left:1rem; 
+}
